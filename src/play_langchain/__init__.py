@@ -1,2 +1,3 @@
-def hello() -> str:
-    return "Hello from play-langchain!"
+def main() -> int:
+    print("Hello from play-langchain!")
+    return 0
