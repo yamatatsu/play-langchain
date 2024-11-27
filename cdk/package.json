@@ -1,0 +1,19 @@
+{
+  "name": "cdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/node": "^22.10.0",
+    "aws-cdk": "^2.171.0",
+    "aws-cdk-lib": "^2.171.0",
+    "tsx": "^4.19.2"
+  }
+}

@@ -3,4 +3,6 @@
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff"
   },
+  "biome.enabled": true,
+  "biome.requireConfigFile": true,
 }
